@@ -1,0 +1,1 @@
+../../gatk4-germline-snps-indels/joint-discovery-gatk4-local.wdl
